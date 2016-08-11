@@ -3,3 +3,6 @@
 
 ## 2. Entering a file/folder path in Finder
 Command + Shift + g
+
+## 3. Canvas Game Tutorial (Kid Level
+http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
