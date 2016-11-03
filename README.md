@@ -9,3 +9,7 @@ http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 
 ## 4. Hackathon Link 
 http://www.stupidhackathon.com/ 
+
+
+## 5. Delete all branches
+git branch | grep -v "master" | xargs git branch -D
